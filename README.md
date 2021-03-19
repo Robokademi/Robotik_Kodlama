@@ -14,4 +14,11 @@
 | 5 | proje seçimi   | Proje bellileme ve 2 haftalık proje yapma süresi verilmesi.                                                                                        |
 | 6 | Proje sunumu   | Yapılan projelerin değerlendirmesi ve sunması                                                                                                      |
 
-  ![Robokademi Logo ](RoboKOADEMİ.png)
+  
+  
+  <p align="center">
+  <a >
+    <img src=https://github.com/Robokademi/Robotik_Kodlama/blob/main/RoboKOADEMİ.png>
+  </a>
+</p>
+
