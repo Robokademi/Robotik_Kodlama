@@ -13,3 +13,5 @@
 | 4 | uygulamalr     | 1. Buzzer kullanımı 2. Mesafeye göre ses çıkarma park metre 3. Ldr ile otomatik kağı yapımı.                                                       |
 | 5 | proje seçimi   | Proje bellileme ve 2 haftalık proje yapma süresi verilmesi.                                                                                        |
 | 6 | Proje sunumu   | Yapılan projelerin değerlendirmesi ve sunması                                                                                                      |
+
+  ![Robokademi Logo ](RoboKOADEMİ.png)
